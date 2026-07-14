@@ -1,7 +1,6 @@
 name : Run Rest Assured Testcases
 
-run:
-  on:
+on:
     push:
       branches: [ "main" ]
 
